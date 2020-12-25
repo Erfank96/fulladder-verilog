@@ -1,27 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   03:48:26 12/25/2020
-// Design Name:   fulladder_verilog
-// Module Name:   C:/Users/ASUS/Desktop/desktop/ise design/fulladder/fulladder_testbench.v
-// Project Name:  fulladder
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: fulladder_verilog
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
 module fulladder_testbench;
 
 	// Inputs
